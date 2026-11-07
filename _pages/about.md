@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I’m Majid, a PhD student in Mechanical Engineering at [Michigan State University](https://www.msu.edu/).
+Hi there! I’m Majid, a PhD student in Mechanical Engineering working in [Vibration and Dynamics Research Lab](https://sites.google.com/view/msu-vibration-dynamics-lab) at [Michigan State University](https://www.msu.edu/).
 
 My research focuses on **nonlinear dynamics, vibrations,
 and energy harvesting**, with
