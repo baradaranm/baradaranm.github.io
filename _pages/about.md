@@ -29,7 +29,35 @@ latest_posts:
 
 Hi there! I’m Majid, a PhD student in Mechanical Engineering at [Michigan State University](https://www.msu.edu/).
 
-My research focuses on Vibration, dynamics and energy harvesting. 
+My research focuses on **nonlinear dynamics, vibrations,
+and energy harvesting**, with
+an emphasis on understanding complex dynamical systems such as vehicle suspension and Fluid-Structure Interactions (FSI)
+and developing innovative approaches to vibration control
+and energy conversion.
+
+My research experience spans several areas, including the
+nonlinear dynamic modeling of compliant and flexure-based
+mechanisms, the analysis and optimization of electrically
+interconnected vehicle suspension systems for vibration
+control and energy regeneration, and the investigation of
+flow-induced vibrations in articulated structures for
+hydrokinetic energy harvesting.
+
+Throughout my research, I have employed analytical and
+computational approaches, including nonlinear vibration
+analysis, perturbation methods, harmonic balance techniques,
+stability and bifurcation analysis, and numerical optimization.
+
+My current work focuses on exploiting flow-induced
+instabilities and optimizing energy dissipation mechanisms
+to improve the efficiency of vibration-based
+energy-harvesting systems.
+
+My broader research goal is to bridge fundamental
+theoretical developments in dynamics and vibrations
+with practical engineering applications, particularly
+in sustainable energy technologies and advanced
+mechanical systems.
 
 If you’d like to connect or chat about research, feel free to reach out via <a href="mailto:baradara@msu.edu">email</a>.
 
