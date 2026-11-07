@@ -10,133 +10,324 @@ description: Curriculum Vitae of Majid Baradaran Akbarzadeh
 # Majid Baradaran Akbarzadeh
 
 **Ph.D. Student in Mechanical Engineering**  
-Michigan State University · East Lansing, Michigan, USA
+Michigan State University | East Lansing, Michigan, USA
 
-**Email:** [baradara@msu.edu](mailto:baradara@msu.edu)  
-**Profiles:** [Google Scholar](https://scholar.google.com/citations?user=85GZHhYAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/majid-baradaran-akbarzadeh-008854104/)
+**Email:** [baradara@msu.edu](mailto:baradara@msu.edu)
 
-**[📄 Download my CV (PDF)]({{ '/assets/pdf/Majid_Baradaran_CV.pdf' | relative_url }})**
+**Academic Profiles:**  
+[Google Scholar](https://scholar.google.com/citations?user=85GZHhYAAAAJ&hl=en) |
+[LinkedIn](https://www.linkedin.com/in/majid-baradaran-akbarzadeh-008854104/)
+
+**[📄 Download My CV (PDF)]({{ '/assets/pdf/Majid_Baradaran_CV.pdf' | relative_url }})**
 
 ---
 
 ## Education
 
-### Michigan State University — East Lansing, Michigan, USA
-**Ph.D. in Mechanical Engineering** | September 2022–Present  
-**GPA:** 3.94/4.00 | **Coursework completed:** 34 credit hours
+### Michigan State University
+**Ph.D. in Mechanical Engineering**  
+East Lansing, Michigan, USA  
+**September 2022 – Present**
 
-- **Research:** Energy harvesting for applications involving fluid-induced vibrations and vehicle suspensions, including projects funded by the Office of Naval Research (ONR) and the National Science Foundation (NSF).
-- **Selected coursework:** Linear Systems and Control; Advanced Dynamics; Nonlinear Vibration; Nonlinear Dynamics and Chaos; Foundations of Data Science; Machine Learning.
+- **GPA:** 3.94/4.00
+- **Completed Coursework:** 34 credit hours
+- **Research:** Energy harvesting for different applications, including fluid-induced vibrations and vehicle suspension systems.
+- **Research Funding:** Office of Naval Research (ONR) and National Science Foundation (NSF).
+- **Selected Coursework:**
+  - Linear Systems and Control
+  - Advanced Dynamics
+  - Nonlinear Vibration
+  - Nonlinear Dynamics and Chaos
+  - Foundations of Data Science
+  - Machine Learning
 
-### Ferdowsi University of Mashhad — Mashhad, Iran
-**M.Sc. in Mechanical Engineering** | September 2020  
-**GPA:** 4.00/4.00 | **Coursework completed:** 32 credit hours
+### Ferdowsi University of Mashhad
+**M.Sc. in Mechanical Engineering**  
+Mashhad, Iran  
+**September 2020**
 
-- **Research:** Nonlinear dynamic modeling of a parallelogram flexure.
-- **Selected coursework:** Fuzzy Control; Theory of Perturbation; Energy Harvesting; Modal Analysis.
+- **GPA:** 4.00/4.00
+- **Completed Coursework:** 32 credit hours
+- **Research Topic:** Nonlinear dynamic modeling of a parallelogram flexure.
+- **Selected Coursework:**
+  - Fuzzy Control
+  - Theory of Perturbation
+  - Energy Harvesting
+  - Modal Analysis
 
-### Azad University of Mashhad — Mashhad, Iran
-**B.Sc. in Mechanical Engineering** | August 2016  
-**GPA:** 4.00/4.00 | **Class rank:** 1st | **Coursework completed:** 142 credit hours
+### Azad University of Mashhad
+**B.Sc. in Mechanical Engineering**  
+Mashhad, Iran  
+**August 2016**
 
-- **Final project:** Simulation of an automotive crash test using ANSYS.
+- **GPA:** 4.00/4.00
+- **Class Rank:** 1st
+- **Completed Coursework:** 142 credit hours
+- **Final Project:** Simulation of an automotive crash test using ANSYS.
 
 ---
 
 ## Research Experience
 
-### Graduate Student Research Assistant — Dynamics and Vibration Laboratory
-**Michigan State University** | January 2023–Present  
-**Advisors:** Dr. Wei Che Tai and Dr. Ranjan Mukherjee
+### Graduate Student Research Assistant
+**Dynamics and Vibration Laboratory**  
+**Michigan State University**  
+East Lansing, Michigan, USA  
+**January 2023 – Present**
 
-- Investigating energy harvesting using fluid-conveying pipe systems with internal flow.
-- Studying electrically interconnected vehicle suspensions with resistive loads under random excitations for energy harvesting.
-- Optimizing RLC two-port electrical networks for energy harvesting and ride comfort in vehicle suspension systems.
-- Analyzing vehicle dynamics and electrical network performance in the time and frequency domains.
-- Participating in experimental work on a full-scale vehicle shock absorber (acknowledged in the related publication).
+**Research Advisors:**
+- Dr. Wei Che Tai
+- Dr. Ranjan Mukherjee
 
-### Graduate Student Research Assistant — Precision, Vibration, and Control Laboratory
-**Ferdowsi University of Mashhad** | June 2017–September 2021
+**Research Projects:**
 
-- Studied the nonlinear dynamics of a parallelogram beam flexure under harmonic base excitation (M.Sc. thesis).
-- Developed fuzzy-logic-based nonlinear control approaches for a ball-and-plate system.
-- Analyzed a cantilever beam with a tip mass under axial and transverse harmonic loads, including energy-harvesting formulations and modal experiments.
+- Investigating energy harvesting using fluid-conveying pipe systems subjected to internal fluid flow.
+
+- Studying electrically interconnected vehicle suspension systems with resistive loads under random road excitations for energy harvesting.
+
+- Optimizing RLC two-port electrical networks for energy harvesting and improved ride comfort in vehicle suspension systems.
+
+- Investigating vehicle dynamics and electrical network optimization using time-domain and frequency-domain analyses.
+
+- Participating in experimental investigations involving a full-scale vehicle shock absorber, with acknowledgment in the related publication.
+
+### Graduate Student Research Assistant
+**Precision, Vibration, and Control Laboratory**  
+**Ferdowsi University of Mashhad**  
+Mashhad, Iran  
+**June 2017 – September 2021**
+
+**Research Projects:**
+
+- Investigated the nonlinear dynamics of a parallelogram beam flexure subjected to harmonic base excitation as part of my M.Sc. thesis.
+
+- Studied nonlinear control of a ball-and-plate system using fuzzy logic.
+
+- Conducted nonlinear analysis of cantilever beams with tip masses subjected to axial and transverse harmonic loads, including energy-harvesting formulations and modal experiments.
 
 ---
 
 ## Research Interests
 
-- Nonlinear dynamics, vibrations, and control
-- Structural dynamics
-- Fluid–structure interaction
-- Electromechanical systems
-- Vehicle dynamics
-- Electrical network modeling and optimization
-- Energy harvesting from electromechanical systems
-- Multibody dynamics and vibrations
-- Classical and fuzzy control
+My research interests include:
+
+- Nonlinear Dynamics, Vibrations, and Control
+- Structural Dynamics
+- Fluid–Structure Interaction (FSI)
+- Electromechanical Systems Analysis
+- Vehicle Dynamics
+- Electrical Network Optimization and Analysis
+- Energy Harvesting from Electromechanical Systems
+- Multibody Dynamics and Vibrations
+- Classical and Fuzzy Control
 
 ---
 
 ## Teaching Experience
 
-**Teaching Assistant — Ferdowsi University of Mashhad**
+### Teaching Assistant
+**Ferdowsi University of Mashhad**
 
-- Mechanics of Materials I and II (undergraduate)
-- Statics (undergraduate)
-- Differential Equations (undergraduate and master's)
-- Mechanical Vibrations (undergraduate, master's, and Ph.D.)
-- Mechanical Design (Ph.D.)
-- Vibrations and Control Laboratory (Ph.D.)
+- **Mechanics of Materials I & II** — Undergraduate
+- **Statics** — Undergraduate
+- **Differential Equations** — Undergraduate and Master's
+- **Mechanical Vibrations** — Undergraduate, Master's, and Ph.D.
+- **Mechanical Design** — Ph.D.
+- **Vibrations and Control Laboratory** — Ph.D.
 
 ---
 
 ## Technical Skills
 
-- **CAD and CAE:** SOLIDWORKS, ANSYS, ABAQUS.
-- **Programming and scientific computing:** MATLAB/Simulink, Wolfram Mathematica, Maple, Python.
-- **Experimental work:** Basic machining and manufacturing; experimental setup and testing; vibration and modal testing; MTS machine testing.
-- **Research methods:** Electromechanical systems analysis; vehicle dynamics; electrical network analysis; energy harvesting; fluid–structure interaction.
+### CAD and CAE Software
+
+- SOLIDWORKS
+- ANSYS
+- ABAQUS
+
+### Programming and Scientific Computing
+
+- MATLAB/Simulink
+- Wolfram Mathematica
+- Maple
+- Python
+
+### Hardware Development and Experimental Testing
+
+- Basic machining and manufacturing techniques
+- Experimental setup and testing
+- Vibration analysis and modal testing
+- MTS machine testing
+
+### Research and Analytical Skills
+
+- Electromechanical Systems Analysis
+- Vehicle Dynamics
+- Electrical Network Analysis
+- Energy Harvesting from Electromechanical Systems
+- Fluid–Structure Interaction
 
 ---
 
 ## Selected Publications
 
-1. **M. Baradaran Akbarzadeh, H. Moeenfard, and S. Awtar**, “Nonlinear Dynamic Modeling of a Parallelogram Flexure.” *Mechanism and Machine Theory*. **Published.**
+### Journal and Conference Publications
 
-2. **M. Baradaran Akbarzadeh and W. C. Tai**, “Analysis of an Electrically Interconnected Half-Car Suspension System With Resistive Loads Under Random Road Excitation.” *ASME IDETC-CIE 2024*. **Published.**
+**1. Nonlinear Dynamic Modeling of a Parallelogram Flexure**
 
-3. **M. Baradaran Akbarzadeh and W. C. Tai**, “Analysis of an Electrically Interconnected Suspension System with Various Electrical Network Configurations Under Random or Bump Excitations.” *ASME IDETC-CIE 2025*. **Accepted; publication pending according to the uploaded CV.**
+M. Baradaran Akbarzadeh, H. Moeenfard, and S. Awtar.
 
-4. **M. Baradaran Akbarzadeh and W. C. Tai**, “Energy Regeneration of an Electrically Interconnected Suspension System with Various Electrical Network Configurations Under Random or Bump Excitations.” *Journal of Vibration and Acoustics*. **Published.**
+*Mechanism and Machine Theory.*
 
-5. **M. Baradaran Akbarzadeh, W. C. Tai, and R. Mukherjee**, “Enhanced Energy Conversion Using Piecewise-Constant Damping: A Fluid-Conveying Pipe Example.” *ASME IDETC-CIE 2026*. **Accepted; publication pending according to the uploaded CV.**
+**Status:** Published.
 
-6. **M. Baradaran Akbarzadeh, W. C. Tai, and R. Mukherjee**, “Energy Harvesting Using Time-Modulated Damping: A Fluid-Conveying Pipe Example.” *Journal of Sound and Vibration*. **Submitted according to the uploaded CV.**
+---
 
-For my publication list and available paper links, please visit my [Publications page]({{ '/publications/' | relative_url }}) or [Google Scholar profile](https://scholar.google.com/citations?user=85GZHhYAAAAJ&hl=en).
+**2. Analysis of an Electrically Interconnected Half-Car Suspension System With Resistive Loads Under Random Road Excitation**
+
+M. Baradaran Akbarzadeh and W. C. Tai.
+
+*ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC-CIE 2024).*
+
+**Status:** Published.
+
+---
+
+**3. Energy Regeneration of an Electrically Interconnected Suspension System with Various Electrical Network Configurations Under Random or Bump Excitations**
+
+M. Baradaran Akbarzadeh and W. C. Tai.
+
+*Journal of Vibration and Acoustics.*
+
+**Status:** Published.
+
+---
+
+**4. Enhanced Energy Conversion Using Piecewise-Constant Damping: A Fluid-Conveying Pipe Example**
+
+M. Baradaran Akbarzadeh, W. C. Tai, and R. Mukherjee.
+
+*ASME IDETC-CIE 2026.*
+
+**Status:** Accepted; publication pending.
+
+---
+
+**5. Energy Harvesting Using Time-Modulated Damping: A Fluid-Conveying Pipe Example**
+
+M. Baradaran Akbarzadeh, W. C. Tai, and R. Mukherjee.
+
+*Journal of Sound and Vibration.*
+
+**Status:** Submitted.
+
+---
+
+For a complete list of publications and available paper links, please visit:
+
+[**My Publications Page**]({{ '/publications/' | relative_url }})
+
+[**Google Scholar Profile**](https://scholar.google.com/citations?user=85GZHhYAAAAJ&hl=en)
+
+---
+
+## Conference Presentations
+
+### ASME IDETC-CIE 2026
+
+**Presentation Title:**  
+Enhanced Energy Conversion Using Piecewise-Constant Damping: A Fluid-Conveying Pipe Example
+
+**Authors:**  
+M. Baradaran Akbarzadeh, W. C. Tai, and R. Mukherjee
+
+**Conference:**  
+ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC-CIE 2026)
+
+**Year:** 2026
+
+[**View Conference Presentation and Photos**]({{ '/news/conference-2026/' | relative_url }})
+
+---
+
+### ASME IDETC-CIE 2025
+
+**Presentation Title:**  
+Analysis of an Electrically Interconnected Suspension System with Various Electrical Network Configurations Under Random or Bump Excitations
+
+**Authors:**  
+M. Baradaran Akbarzadeh and W. C. Tai
+
+**Conference:**  
+ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC-CIE 2025)
+
+**Year:** 2025
+
+---
+
+### ASME IDETC-CIE 2024
+
+**Presentation Title:**  
+Analysis of an Electrically Interconnected Half-Car Suspension System With Resistive Loads Under Random Road Excitation
+
+**Authors:**  
+M. Baradaran Akbarzadeh and W. C. Tai
+
+**Conference:**  
+ASME International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC-CIE 2024)
+
+**Year:** 2024
+
+[**View Conference Presentation and Photos**]({{ '/news/conference-2024/' | relative_url }})
 
 ---
 
 ## Honors and Awards
 
-- Ranked **first** in the B.Sc. Mechanical Engineering graduating class of 2016.
-- Named **Student of the Year**, Faculty of Engineering, academic year 2014–2015.
+- **First Rank in B.Sc. Mechanical Engineering:** Achieved first rank in the graduating class of 2016.
+
+- **Student of the Year:** Faculty of Engineering, academic year 2014–2015.
 
 ---
 
 ## Leadership and University Service
 
-- **President**, Mechanical Engineering Graduate Student Association (ME-GSA), Michigan State University | 2026–2027.
-- **Member**, Mechanical Engineering Department Advisory Committee, Michigan State University | 2025–2026.
-- **Member**, College of Engineering Research Committee, Michigan State University | 2026–2027.
+### President
+**Mechanical Engineering Graduate Student Association (ME-GSA)**  
+Michigan State University  
+**2026–2027**
+
+### Advisory Committee Member
+**Department of Mechanical Engineering**  
+Michigan State University  
+**2025–2026**
+
+### Engineering Research Committee Member
+**College of Engineering**  
+Michigan State University  
+**2026–2027**
 
 ---
 
 ## References
 
-- **Dr. Wei Che Tai** — Associate Professor, Michigan State University.
-- **Dr. Ranjan Mukherjee** — Professor, Michigan State University.
-- **Dr. Brian Feeny** — Professor, Michigan State University.
+### Dr. Wei Che Tai
+Associate Professor  
+Department of Mechanical Engineering  
+Michigan State University, USA
 
-Reference contact details are provided in the downloadable CV.
+### Dr. Ranjan Mukherjee
+Professor  
+Department of Mechanical Engineering  
+Michigan State University, USA
+
+### Dr. Brian Feeny
+Professor  
+Department of Mechanical Engineering  
+Michigan State University, USA
+
+**Reference contact information is available upon request.**
+
+---
+
+**[📄 Download Full CV (PDF)]({{ '/assets/pdf/Majid_Baradaran_CV.pdf' | relative_url }})**
