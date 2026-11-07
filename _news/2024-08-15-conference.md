@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Research Presentation at IDETC2024 In Washington DC"
-date: August 25–28, 2024
+date: 2024-08-25
 inline: false
 related_posts: false
 permalink: /news/conference-2024/
