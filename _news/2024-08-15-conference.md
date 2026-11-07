@@ -27,15 +27,15 @@ Moreover, it was a great experience to meet very professional and well known peo
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;">
 
-  <img src="{{ '/assets/img/presentations/conference-2024/photo1.jpg' | relative_url }}"
+  <img src="{{ '/assets/img/presentations/conference-2024/photo1.jpeg' | relative_url }}"
        alt="Presenting my research"
        style="width: 100%; border-radius: 8px;">
 
-  <img src="{{ '/assets/img/presentations/conference-2024/photo2.jpg' | relative_url }}"
+  <img src="{{ '/assets/img/presentations/conference-2024/photo2.jpeg' | relative_url }}"
        alt="Research presentation"
        style="width: 100%; border-radius: 8px;">
 
-  <img src="{{ '/assets/img/presentations/conference-2024/photo3.jpg' | relative_url }}"
+  <img src="{{ '/assets/img/presentations/conference-2024/photo3.jpeg' | relative_url }}"
        alt="Conference participants"
        style="width: 100%; border-radius: 8px;">
 
