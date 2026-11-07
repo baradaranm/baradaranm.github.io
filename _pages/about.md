@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Ph.D. Student in Mechanical Engineering | Michigan State University
-<!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
 
 profile:
   align: right
