@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My Research Presentation at XYZ Conference"
-date: 2026-10-15
+title: "Energy Harvesting from Fluid Conveying pipe System"
+date: August 23–26, 2026
 inline: false
 related_posts: false
 permalink: /news/conference-2026/
@@ -11,20 +11,19 @@ permalink: /news/conference-2026/
 
 **Date:** October 15, 2026
 
-**Location:** Conference Location
+**Location:** Houston, Texas
 
-**Event:** XYZ Conference
+**Event:** IDETC2026 Conference
 
 ### About My Presentation
 
-I had the opportunity to present my research on
-nonlinear dynamics, fluid-structure interactions,
-and energy harvesting at XYZ Conference.
+Attending ASME (The American Society of Mechanical Engineers) IDETC-CIE 2026 in Houston, Texas was a rewarding experience and a great opportunity to share our research with the broader engineering community.
 
-During my presentation, I discussed the dynamic
-behavior of articulated structures subjected to
-fluid flow and their potential applications in
-energy harvesting.
+During the conference, I presented our recently published paper titled “ENHANCED ENERGY CONVERSION USING PIECEWISE-CONSTANT DAMPING: A FLUID-CONVEYING PIPE EXAMPLE” and had the chance to discuss our work with researchers and professionals from various backgrounds. Beyond the technical sessions, one of the highlights of the conference was meeting so many prominent researchers in the field of vibration, nonlinear dynamics and energy harvesting.
+
+I am very thankful to my co-authors, Dr. Wei-Che Tai and Dr. Ranjan Mukherjee, for their valuable guidance, support, and collaboration throughout this work.
+
+I’m glad to have been part of this conference and to have had the opportunity to present our research, learn from others, and connect with the community.
 
 ### Presentation Photos
 
