@@ -7,7 +7,7 @@ related_posts: false
 permalink: /news/conference-2026/
 ---
 
-## Research Presentation at XYZ Conference
+## Research Presentation at IDETC2026 In Houston, TX
 
 **Date:** October 15, 2026
 
