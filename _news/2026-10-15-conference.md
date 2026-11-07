@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Energy Harvesting from Fluid Conveying pipe System"
+title: "Research Presentation at IDETC2026 In Houston, TX"
 date: August 23–26, 2026
 inline: false
 related_posts: false
 permalink: /news/conference-2026/
 ---
 
-## Research Presentation at IDETC2026 In Houston, TX
+## Energy Harvesting from Fluid Conveying pipe System
 
-**Date:** October 15, 2026
+**Date:** August 23–26, 2026
 
 **Location:** Houston, Texas
 
