@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Research Presentation at IDETC2026 In Houston, TX"
+title: "🎤 Research Presentation at IDETC2026 In Houston, TX"
 date: August 23–26, 2026
 inline: false
 related_posts: false
