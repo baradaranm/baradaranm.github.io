@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Research Presentation at IDETC2024 In Washington DC"
+title: "🎤 Research Presentation at IDETC2024 In Washington DC"
 date: 2024-08-25
 inline: false
 related_posts: false
