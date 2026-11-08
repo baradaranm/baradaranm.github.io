@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>428 S Shaw Ln</p>
     <p>Engineering Building</p>
-    <p>East Lansing, MI 48824</p>
+    <p>East Lansing, MI, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
