@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Research Presentation at IDETC2025 In Anaheim, CA"
+title: "🎤 Research Presentation at IDETC2025 In Anaheim, CA"
 date: 2025-08-20
 inline: false
 related_posts: false
