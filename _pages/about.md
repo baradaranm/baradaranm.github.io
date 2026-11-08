@@ -64,11 +64,6 @@ computational approaches, including nonlinear vibration
 analysis, perturbation methods, harmonic balance techniques,
 stability and bifurcation analysis, and numerical optimization.
 
-My current work focuses on exploiting flow-induced
-instabilities and optimizing energy dissipation mechanisms
-to improve the efficiency of vibration-based
-energy-harvesting systems.
-
 My broader research goal is to bridge fundamental
 theoretical developments in dynamics and vibrations
 with practical engineering applications, particularly
