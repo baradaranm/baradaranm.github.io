@@ -27,6 +27,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+.navbar-brand::before {
+  content: "";
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+  background-image: url("{{ '/assets/img/MB_logo_black.png' | relative_url }}");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+</style>
+
 Hi there! I’m Majid, a PhD student in Mechanical Engineering working in [Vibration and Dynamics Research Lab](https://sites.google.com/view/msu-vibration-dynamics-lab) at [Michigan State University](https://www.msu.edu/).
 
 My research focuses on **nonlinear dynamics, vibrations,
