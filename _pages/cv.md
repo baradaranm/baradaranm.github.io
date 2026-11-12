@@ -290,7 +290,7 @@ ASME International Design Engineering Technical Conferences and Computers and In
 
 ---
 
-## Leadership and University Service
+## Leadership and Professional Service
 
 ### President
 **Mechanical Engineering Graduate Student Association (ME-GSA)**  
@@ -306,6 +306,9 @@ Michigan State University
 **College of Engineering**  
 Michigan State University  
 **2026–2027**
+
+### Peer Reviewer
+***Journal of Sound and Vibration (JSV)***
 
 ---
 
